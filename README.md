@@ -1,9 +1,3 @@
-Perfect 👍
-Below is a **professional, resume-ready `README.md`** for your **Swiggy Clone React project**.
-You can **directly copy-paste** this into your `README.md` file.
-
----
-
 # 🍔 Swiggy Clone (React + Tailwind CSS)
 
 A responsive **Swiggy-inspired food delivery web application** built using **React, Vite, and Tailwind CSS**.
@@ -148,8 +142,6 @@ Steps used to deploy:
 Frontend Developer (React)
 
 * GitHub: [https://github.com/digi2025new](https://github.com/digi2025new)
-* LinkedIn: *(add if you want)*
-
 ---
 
 ## ⭐ If you like this project
